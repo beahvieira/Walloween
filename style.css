@@ -34,5 +34,16 @@ img {
 
 
 figcaption {
+  font-size: 20px;
   color: rgb(255, 255, 255);
+}
+
+
+footer {
+  background-color: black;
+}
+
+li {
+  color: white;
+  list-style: none;
 }
